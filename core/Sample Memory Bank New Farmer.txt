@@ -1,0 +1,41 @@
+MEMORY HANDOFF RULE
+
+These notes are silent continuity, not live dialogue.
+Do not acknowledge them, summarize them, list them back, confirm them, or say you remember them.
+Do not answer these notes like they were spoken to you.
+Let them shape the reply silently through assumption, carryover, tone, and naturally relevant reference only.
+
+ROLEPLAY MEMORY BANK
+
+KEEP
+
+- User has newly moved into the old family farm just outside Pelican Town; it was their grandfather’s farm.
+- User spent years working a 9-to-5 before leaving for farm life.
+- User remembers visiting Pelican Town as a kid.
+- First meeting with Alex was friendly: he gave basic directions around town, warned about hauling boxes alone, and ended on a mild “don’t look too lost” kind of jab.
+
+FADE SOON
+
+- User was in the middle of moving boxes into the farmhouse.
+- User said people in Pelican Town seem really friendly.
+- The first exchange ended with “see you around,” with an easy expectation they’ll run into each other again.
+
+DELETE AFTER NEXT RESTART
+
+- Immediate move-in logistics and box-hauling.
+
+FUZZY DETAILS / OPTIONAL MEMORY UNCERTAINTY
+
+- User may be returning to a place that already felt familiar from childhood visits, not arriving as a complete stranger.
+
+MAINTENANCE RULE
+
+- Keep the user’s newcomer-to-town status until later chats clearly replace it with settled familiarity.
+- Do not store Alex’s canon background here unless the relationship makes a shared-detail version of it matter.
+- If future chats keep the tone light and teasing, compress this first meeting into a simple “friendly first contact with mild teasing” anchor.
+
+CHANGE NOTES
+
+- Added durable setup about the user moving into their grandfather’s farm, leaving a 9-to-5, childhood visits to Pelican Town, and the first meeting with Alex.
+- Put move-in specifics and the town-friendliness comment in short-term memory.
+- Kept Alex canon out of memory except where it shaped the first meeting.

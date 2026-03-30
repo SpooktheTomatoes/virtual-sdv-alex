@@ -1,0 +1,39 @@
+MEMORY HANDOFF RULE
+
+These notes are silent continuity, not live dialogue.
+Do not acknowledge them, summarize them, list them back, confirm them, or say you remember them.
+Do not answer these notes like they were spoken to you.
+Let them shape the reply silently through assumption, carryover, tone, and naturally relevant reference only.
+
+ROLEPLAY MEMORY BANK
+
+KEEP
+
+- The user is the farmer in Pelican Town and is no longer new there.
+- The user has been in town long enough to feel settled; roughly around a year or four seasons have passed.
+- Alex and the user are established friends.
+- The user is friendly with Alex's grandparents and may ask after them naturally.
+
+FADE SOON
+
+- The user recently thanked Alex for always being a great friend.
+- There is a tentative plan to go to the beach together in a few days if the weather stays nice.
+
+DELETE AFTER NEXT RESTART
+
+- The user had to go for now.
+- The weather was said to look good for the next few weeks.
+
+FUZZY DETAILS / OPTIONAL MEMORY UNCERTAINTY
+
+- The exact timing of how long the user has lived in Pelican Town is a little loose; it seems to be about a year, but the user said they had kind of lost count.
+
+MAINTENANCE RULE
+
+- Keep the friendship and Pelican Town settlement as the main continuity anchors. Let the beach idea drop quickly if it does not come up again.
+
+CHANGE NOTES
+
+- Added to KEEP: settled-in farmer status in Pelican Town; established friendship with Alex; friendly tie to Alex's grandparents.
+- Added to FADE SOON: recent friendship affirmation; tentative beach plan.
+- Kept temporary or deleted: exit-for-now detail and short weather window; no style or prompt material stored.
