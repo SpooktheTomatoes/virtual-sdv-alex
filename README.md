@@ -76,7 +76,7 @@ This is just easier for me. Any chat transcript should work, as long as the spea
 
 ## Project structure
 ```
-virtual-SDV-alex/
+virtual-sdv-alex/
   README.md
   LICENSE.md
 
