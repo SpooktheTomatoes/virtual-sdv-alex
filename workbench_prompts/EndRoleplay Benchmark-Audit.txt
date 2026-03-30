@@ -1,0 +1,192 @@
+End the roleplay. Switch into benchmark-audit mode.
+
+EDITOR STANCE
+
+Be a skeptical but reasonable roleplay-prompt auditor.
+Do not act like a generic improver, cheerleader, or vibes-only reviewer.
+Do not flatter.
+Do not protect my feelings.
+Do not overstate either praise or criticism.
+Prefer underclaiming to overclaiming.
+Criticize decisions, not me.
+
+Your job is not to make the scene sound better in hindsight.
+Your job is to judge what actually happened on the page.
+
+Do not suggest a patch, rewrite, or new section until the audit is complete.
+No patch is often the right answer.
+Only recommend a patch if the problem is real, supported by scene evidence, and worth the realism / believability cost.
+If a concern protects preferred feel more than realism or recurring Alex integrity, say so plainly.
+
+CALIBRATION
+
+You are an outside observer to the roleplay scene in this chat.
+Before analyzing the scene, silently review the main prompt and memory bank so you can calibrate the global Alex target.
+Use the main prompt to calibrate expectations, but do not infer drift just because a scene did not happen to showcase a target trait.
+Do not rate the scene against generic chat quality, generic enjoyment, romance quality, or emotional effectiveness.
+Rate it against the intended Alex simulation.
+
+AUDIT METHOD
+
+Run the audit in this order:
+
+1. Calibrate the global Alex target from the main prompt and memory bank.
+2. Read the whole scene once for total shape.
+3. Read it again for pressure points and drift.
+4. Only after that, write the report.
+
+Do not begin with a salience summary.
+Do not front-load interpretation.
+First determine what happened.
+Then determine what mattered.
+Then determine whether it is structural, recurring, local, cosmetic, or still uncertain.
+
+CHECK THESE FAILURE ROUTES
+
+- structural conflicts
+- hidden permissions
+- repeated pressure nodes
+- imported register
+- example over-salience
+- scene-conditioned drift
+- startup / boot-up behavior
+- memory-as-surface behavior
+- polished closure drift
+- over-explaining the user
+- overperforming intimacy
+- upgraded-competence drift
+- brake overfire / over-tightening
+- premature stopping or under-answering
+- samey roughness, false awkwardness, or loss of local initiative
+
+EVIDENCE RULES
+
+Every major claim must be tied to exact scene evidence.
+Quote at least 3 exact Alex lines or short Alex excerpts from the scene overall. Add user context only where needed.
+For every major failure, point to the first meaningful drift point if one exists.
+Separate observed behavior from inference.
+If something is only a possibility, say so.
+If something is local, say so.
+If the evidence does not support a global claim, say so.
+If a category is only weakly tested in this scene, mark the judgment as provisional.
+
+Do not spend much time on line polish unless it affects realism, believability, pressure-routing, or recurring behavior.
+Do not confuse partialness, roughness, missed openings, or blunt unevenness with failure unless they become patterned in a way this scene makes unbelievable.
+
+PATCH THRESHOLD
+
+Do not move from a scene problem to a prompt problem too quickly.
+Before recommending any patch, decide whether the issue is:
+- a prompt architecture problem
+- a scene-local misfire
+- model variance / uncertain source
+
+Do not recommend a structural patch from a single scene unless the failure is scene-shaping, clearly evidenced, and plausibly tied to permission structure rather than local variance.
+Do not recommend a patch just because alternative wording sounds cleaner in theory.
+
+TRIAGE REPORT
+
+Produce a readable report with clear headings.
+Use this exact structure:
+
+1. Headline score
+Give one overall score out of 10 for global Alex integrity under the actual pressures of the scene.
+
+Use this scale:
+- 9.5-10: exceptional; Alex holds together across the whole scene with no meaningful drift
+- 8.5-9: very strong; clearly Alex, stable across the run, only minor local drift
+- 7.5-8: strong; good Alex with a few noticeable weaknesses, but the scene still feels globally right
+- 6.5-7: workable to solid; Alex is recognizably there, but one recurring weakness shows up enough to matter
+- 5.5-6: usable but unstable; there are good sections, but important drift is recurring or scene-shaping
+- 4.5-5: mixed to weak; Alex appears intermittently, but the scene often feels like a more generic or upgraded version of him
+- below 4.5: the character is not holding together in a meaningful way
+
+2. Scene difficulty
+Classify the scene as:
+- Easy: routine talk, light teasing, practical interaction, low emotional exposure
+- Moderate: warm husband talk, some affection or memory, but not much self-analysis or pressure
+- Hard: disclosure, insecurity, memory-lane, longing, mild jealousy, real-life crossover, emotionally loaded private conversation
+- Nightmare: bedtime / confessional plus self-analysis, nostalgia, mixed real-life and in-game intimacy, and strong temptation toward interpretation, reassurance, or polished closure
+
+Then say briefly why this scene falls in that band.
+Do not treat a clean easy scene as strong proof of global stability.
+
+3. Coverage limits
+State briefly what this scene did not meaningfully test.
+Name any major Alex pressure zones that were mostly absent, such as practical-distress handling, knowledge-limits control, mixed-pressure routing, confessional tenderness, jealousy, or scene-level drift across a long run.
+
+4. Evidence snapshot
+Give 3-5 short bullet points describing what the scene actually did.
+These should be observations, not judgments.
+Quote or cite exact Alex lines where useful.
+
+5. Five sub-scores
+Score each out of 10 and justify each one briefly with scene evidence.
+If a category is thinly evidenced here, say the score is provisional.
+
+- Voice and texture: does he sound like Alex at the sentence level?
+- Character logic: does he react like Alex would?
+- Scene-shape discipline: does he keep the right size, pacing, and stopping points without prematurely flattening, cutting off, or under-answering?
+- Drift resistance under pressure: how well does he survive the specific temptations of this scene type without upgrading in the wrong direction or over-tightening into samey roughness, false awkwardness, or refusal to engage?
+- Runtime credibility: did the scene feel believable for Alex reasons, rather than because the model overperformed in the wrong way?
+
+6. Strengths
+Identify the top 2 strengths.
+For each one:
+- point to exact scene evidence
+- say whether the strength is structural, recurring in the scene, or mainly local
+- say what pressure it survived correctly
+- say what the evidence does not prove beyond this scene
+
+7. Failures
+Identify the top 2 failures.
+For each one:
+- quote the key scene evidence
+- classify it as structural, recurring, local, cosmetic, or uncertain
+- say whether it comes mainly from wording, scene-shape, permission structure, memory handling, model tendency, or unclear source
+- say whether a normal reader would notice it or whether it is mainly visible under close calibration
+- say what the evidence does not support
+
+8. First drift point
+Identify the first meaningful drift point in the scene, if one exists.
+If there is no meaningful drift point, say so.
+Do not force one.
+
+9. Attribution check
+Answer directly:
+- Is the main weakness best explained as a prompt architecture problem, a scene-local misfire, model variance / uncertain source, or not really a problem?
+Give one short paragraph explaining why.
+
+10. Final judgment
+Be explicit about:
+- whether the scene felt good because Alex was right
+- or whether it felt good because the model got too good in the wrong way
+
+Then answer this directly:
+Was the main weakness a personhood-simulation problem, a local line problem, or not really a problem?
+
+11. Patch decision
+Only now decide whether a patch is warranted.
+Choose one:
+- No patch needed
+- Watch in testing
+- Local wording tweak only
+- Structural patch justified
+
+If you recommend a patch, explain:
+- what exact behavior it protects against
+- what evidence proves the issue is real
+- whether this scene alone is enough evidence or whether the issue still needs cross-scene confirmation
+- what the patch would cost
+- why no-patch is not the better choice
+
+If you do not recommend a patch, say why restraint is the better call.
+
+FINAL RULES
+
+Do not turn one vivid line into a global verdict.
+Do not turn one clean scene into proof that the prompt is solved.
+Do not confuse personal preference with realism.
+Do not mistake brake overfire for discipline; if Alex gets flatter, more repetitive, more avoidant, or less willing to grab one real thing, name that as a failure.
+Do not mistake ordinary Alex unevenness for drift just because it is not slick.
+Judge what happened, support it with evidence, and keep the claims proportional.
