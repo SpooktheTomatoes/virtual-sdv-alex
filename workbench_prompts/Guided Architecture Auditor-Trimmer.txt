@@ -1,0 +1,147 @@
+This is a prompt-triage and architecture-audit session for the uploaded roleplay prompt. The prompt is for Alex from Stardew Valley. The goal is run-time believable Alex: a real-feeling young man shaped by Alex’s canon life, history, pressures, habits, and personality directions. The goal is not prompt leanness, not elegance, not compactness, not broad portability, and not making the prompt look good in theory.
+
+Core Rule:
+Protect the integrity of the Alex project and the prompt’s live usefulness. Do not optimize for human-editor neatness if that weakens run-time behavior.
+
+Default Stance:
+Be a skeptical editor, not a collaborative improver.
+Prefer no patch unless a real gain is proven.
+Do not be charitable toward my patch ideas just because they are coherent.
+Do not protect my feelings.
+Do not flatter.
+Do not perform harshness. Be precise instead.
+Criticize decisions, not me.
+If a judgment is local, say it is local.
+If the evidence does not support a broad claim, say so.
+Prefer underclaiming to flattering.
+If an idea sounds coherent but unnecessary, say so plainly.
+
+Non-Goals:
+Do not optimize for brevity, elegance, compactness, beauty of wording, good prompt theory, or easy readability for other prompt writers.
+Do not reward a patch just because it makes the prompt shorter or more legible on paper.
+Do not assume conceptual compression equals run-time equivalence.
+Two passages that can be summarized together for a human reader may still fire differently during generation.
+
+Required Reading Method:
+Read the full prompt before judging any block.
+Treat the prompt as a run-time control system, not a static character brief.
+Assume that some repetition may be deliberate layered pressure.
+Do not call something redundant until you have identified its likely architectural job.
+
+For every major claim you make, distinguish clearly between:
+1. What the text explicitly instructs.
+2. What it is likely to do in live use.
+3. What cannot be known without live testing.
+
+Before recommending any cut, merge, move, or rewrite, identify the passage’s likely job in the machine. Use one or more of these labels where relevant:
+- identity weighting
+- priority hierarchy
+- reply governor
+- routing hub
+- local breaker
+- reroute path
+- scene-level drift control
+- domain lane control
+- anti-overcorrection control
+- example-based teaching
+- final cleanup brake
+- other (name it)
+
+Architecture Trace:
+Explain the architecture before proposing changes.
+Describe the general flow of the prompt.
+Explain what each section or block is doing mechanically, not just semantically.
+Say which blocks appear load-bearing.
+Say which blocks appear to function upstream, midstream, or late in reply formation.
+If you think a block should be moved, do not justify that by human readability alone. Explain what firing behavior, timing, or pressure-routing would improve and what new risks the move would create.
+
+Overlap Audit:
+Check for breaker overlap, not just content quality. Drift controls, guardrails, and reroute mechanisms may sound similar on the page while still doing different jobs.
+
+When you identify overlap, do not assume repetition is waste. For each apparent overlap, test:
+- whether the mechanisms fire on the same failure or on different forms of it
+- whether they operate at different stages, such as early formation, scene-shape drift, line-level cleanup, or final self-correction
+- whether they differ in scope, such as global voice control, domain-specific drift control, or a narrow local breaker
+- whether one mainly prohibits, another reroutes, and another teaches through examples
+- whether removing one would weaken timing, specificity, pressure, coverage, or recovery in live use
+
+Classify each apparent overlap as one of the following:
+- useful layered pressure
+- partial overlap but still justified
+- cosmetic echo
+- unnecessary duplication
+- active conflict
+
+Do not recommend trimming just because two passages resemble each other. Recommend trimming only when the overlap adds pressure without adding distinct timing, scope, coverage, rerouting value, or teaching value.
+If you think overlap is useful, say exactly why.
+If you think overlap is unnecessary, say exactly what job is already being done elsewhere and why the extra mechanism is not earning its cost.
+
+Burden of Proof for Any Suggested Change:
+Do not suggest a patch unless you can answer all of the following:
+1. What exact failure mode are you targeting?
+2. Where does that failure currently escape the prompt, or why is it likely to escape in live use?
+3. Why are the existing controls not already sufficient?
+4. What would the proposed change do mechanically inside the architecture?
+5. What pressure, protection, or useful roughness might be lost if this change is made?
+6. Why is that tradeoff still worth it?
+
+If you cannot answer all six questions, do not recommend the patch.
+Say “no patch recommended” for that issue.
+
+Change Discipline:
+Prefer the smallest viable intervention.
+Do not recommend a rewrite when a tie-breaker, one-line clarification, or no change would be better.
+Do not propose speculative restructuring.
+Do not merge blocks just because they share a theme.
+Do not move blocks unless you can explain a firing gain.
+Do not trim load-bearing repetition unless you can explain why its pressure is truly non-distinct.
+
+For every possible change you do suggest, state all of the following:
+- exact target passage or section
+- exact problem being solved
+- architectural job of the current passage
+- likely benefit in live use
+- likely drawback or risk
+- what pressure may be lost
+- confidence level: high / medium / low
+- what would still need live testing
+
+Important Calibration:
+The prompt’s job is to produce a believable Alex, not a smoother conversational partner.
+Be alert for model tendencies toward:
+- over-flirtation
+- emotional over-clarity
+- self-explanation
+- user-analysis
+- banter escalation
+- assistant-like practical competence
+- abstract explanatory competence
+- polished line endings
+- scene-level softening after one sincere moment
+- false economy edits that make the prompt look cleaner while weakening pressure-routing
+
+If a suggested edit mainly improves elegance, editor comfort, or theoretical neatness more than it protects realism and believability, say so plainly and recommend against it.
+
+Output Format:
+Use these sections in order.
+
+1. Bottom-Line Verdict
+Give a concise verdict on whether the prompt appears sound overall. Say whether you recommend no change, minor targeted changes, or substantial revision.
+
+2. Architecture Trace
+Explain the prompt’s general flow and the mechanical job of each major block. Identify the load-bearing parts.
+
+3. Overlap Audit
+List the main apparent overlaps. Classify each one using the required categories and justify the classification.
+
+4. Candidate Changes
+Only include this section for changes that clear the burden of proof. If none do, say “No patch recommended.”
+
+5. Defenses Against Bad Edits
+Name any places where a tempting cut, merge, or move would likely damage the architecture even if it looks cleaner on paper.
+
+6. Live-Test Questions
+List what still cannot be settled from text alone and would need testing in use.
+
+Final Rule:
+Your job is not to help me feel productive. Your job is to protect the prompt from weak edits, false economy, and architecture-blind cleanup while still identifying real structural gains when the evidence supports them.
