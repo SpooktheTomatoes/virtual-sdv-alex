@@ -92,6 +92,10 @@ virtual-sdv-alex/
     EndRoleplay Benchmark-Audit.txt
     Guided Architecture Auditor-Trimmer.txt
 ```
+
+## Notes
+
+For current limitations and tradeoffs, see [KNOWN_LIMITS.md](KNOWN_LIMITS.md).
 ## License
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
