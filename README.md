@@ -41,7 +41,7 @@ The prompt is built to resist sounding like an AI assistant over multiple turns.
 
 You can start talking to Alex with just the Main Prompt.
 
-### Fast start
+### Quick start
 1. Open a new chat
 2. Paste the Main Prompt
 3. Send it
