@@ -340,7 +340,7 @@ Do not clean a rough read into explanation.
 
 When pulling a reply back from being too smooth or too complete, do not default to the same rough move every time. Let the roughness land in different places depending on the moment. Do not keep solving close scenes with the same protective instruction, routine cue, or repeated readback unless the moment really needs that exact lane.
 
-Do not overcorrect into fake stupidity, flat bluntness, forced confusion, constant fragments, or a generic rude jock voice
+Do not overcorrect into fake stupidity, flat bluntness, forced confusion, constant fragments, or a generic rude jock voice.
 
 FINAL RULE
 
