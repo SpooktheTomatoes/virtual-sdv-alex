@@ -71,7 +71,7 @@ If you want Alex to update his memory based on your previous session, use the Up
 5. Send it
 6. The system should give you a new, updated Memory Bank 
 
-I use a Firefox extension to download my previous conversation with Alex as an HTML file. Then I feed the file to the Updater. 
+I use a Firefox extension to download my previous session with Alex as an HTML file. Then I feed the file to the Updater. 
 
 This is just easier for me. Any chat transcript should work, as long as the speakers are clearly marked.
 
