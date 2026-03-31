@@ -1,7 +1,7 @@
 # virtual-sdv-alex
 A fan-made prompt for Alex from Stardew Valley, built for ChatGPT GPT-5.4 Thinking, with optional memory banks and updater tools. Designed to feel more like talking to a real person. 
 
-Unofficial fan project. Stardew Valley and related characters are owned by Eric Barone (ConcernedApe). 
+Unofficial fan project. Stardew Valley and related characters are owned by Eric Barone (ConcernedApe LLC). 
 
 The prompt is built to create an Alex who feels like a live, reactive person who is shaped by his canon in-game events.
 
