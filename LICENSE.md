@@ -6,7 +6,7 @@ Except for Stardew Valley, Alex, and any other third-party intellectual property
 
 This includes the prompt text, updater text, memory-bank templates, README text, and other original repository materials written by the repository author.
 
-Stardew Valley and related characters are owned by Eric Barone (ConcernedApe). This repository is an unofficial fan project and does not claim ownership of that underlying intellectual property.
+Stardew Valley and related characters are owned by Eric Barone (ConcernedApe LLC). This repository is an unofficial fan project and does not claim ownership of that underlying intellectual property.
 
 License URL:
 https://creativecommons.org/licenses/by-nc/4.0/
