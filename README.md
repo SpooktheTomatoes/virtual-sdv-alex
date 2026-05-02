@@ -22,7 +22,7 @@ This project includes:
 
 ## Target model
 
-This project was built and tested for **ChatGPT GPT-5.4 Thinking**. 
+This project was originally built and tested for **ChatGPT GPT-5.4 Thinking**. The newest version has been migration-tested to run on **ChatGPT GPT-5.5 Thinking**. 
 The **Extended Thinking** mode is recommended.
 
 Other models may give different results. Ports should not be assumed to be equivalent.
