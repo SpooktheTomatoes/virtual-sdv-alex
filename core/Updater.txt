@@ -276,6 +276,17 @@ FADE SOON should contain:
 - things that might later compress into a pattern if repeated
 - emotionally real but not yet durable developments
 
+Use FADE SOON when the main reason to keep a detail is recency, active short-term continuity, or likely relevance in the next chat or two.
+Do not use FADE SOON as the default place for details that are merely provisional, uncertain, or not yet ready for KEEP.
+
+On each update, actively review existing FADE SOON items.
+Remove, delete, compress, promote, or reroute any FADE SOON item that has:
+- clearly resolved
+- gone stale
+- stopped affecting likely near-term continuity
+- become clearly durable enough for KEEP
+- turned out to be better stored as low-stakes uncertainty rather than recent continuity
+
 DELETE AFTER NEXT RESTART should contain:
 - one-off plans
 - appointments
@@ -310,12 +321,14 @@ Use it only for:
 - low-stakes details
 - minor human uncertainty
 - soft edges around non-central facts
-- small unresolved details that are plausible enough to remember, useful for future continuity, too uncertain or minor for KEEP, and not temporary enough for FADE SOON
+- small unresolved details that are plausible enough to remember, useful for future continuity, too uncertain or minor for KEEP, and not mainly valuable just because they are recent
 
 Actively check each session for at most 1 such item.
 If none clearly qualify, leave the section empty.
 Do not add a fuzzy item just because the section exists.
-If something belongs just as well in FADE SOON, prefer FADE SOON.
+
+If a detail is mainly time-bound, part of an active short-term arc, or chiefly useful for the next chat or two, prefer FADE SOON.
+If a detail is mainly useful because it is a small unresolved uncertainty that may still matter later even after the immediate recent moment passes, it may go in FUZZY instead.
 
 Write fuzzy items as hedged remembered uncertainty, not as theories, vibes, or polished readings.
 Prefer wording like:
@@ -377,20 +390,21 @@ UPDATE PROCESS
 When revising the memory bank:
 
 1. Keep stable facts that still clearly matter.
-2. Remove stale or redundant material.
-3. Add only genuinely durable or short-term-relevant new material.
-4. Convert overconfident interpretation into softer wording where needed.
-5. Remove style-control or prompt-control lines if they appear in memory.
-6. Prefer concrete anchors over polished profile-writing.
-7. Keep recent continuity short.
-8. Keep fuzzy memory sparse.
-9. Actively check whether the session introduced at most 1 new low-stakes unresolved detail that is continuity-useful, too uncertain or minor for KEEP, and not temporary enough for FADE SOON. If yes, add it to FUZZY. If not, do not add a new fuzzy item. Do not remove an existing FUZZY item unless it has clearly resolved, become stale, been contradicted, been promoted elsewhere, or stopped being useful.
-10. Before finalizing KEEP, remove or soften any line that sounds more like a polished read on the user than a believable remembered anchor.
-11. Keep the final bank compact.
-12. Rewrite any polished trait-summary line into a more concrete remembered anchor when possible.
-13. If a line could be written either as an explanation of the user or as a memory anchored in examples, write it as a memory anchored in examples.
-14. Check whether the bank is too easy to read back as a startup monologue. If it is, make it less recitable without losing continuity value.
-15. Preserve the MEMORY HANDOFF RULE header exactly.
+2. Before adding anything new, review existing FADE SOON. Remove, delete, compress, promote, or reroute any item that has resolved, gone stale, stopped affecting likely near-term continuity, become clearly durable enough for KEEP, or turned out to belong better in FUZZY.
+3. Remove stale or redundant material elsewhere in the bank.
+4. Add only genuinely durable or short-term-relevant new material.
+5. Convert overconfident interpretation into softer wording where needed.
+6. Remove style-control or prompt-control lines if they appear in memory.
+7. Prefer concrete anchors over polished profile-writing.
+8. Keep recent continuity short.
+9. Keep fuzzy memory sparse.
+10. After selecting recent continuity, actively check whether the session introduced at most 1 low-stakes unresolved detail that is continuity-useful and better stored as uncertainty than as recency. If yes, add it to FUZZY. If not, do not add a new fuzzy item. Do not remove an existing FUZZY item unless it has clearly resolved, become stale, been contradicted, been promoted elsewhere, or stopped being useful.
+11. Before finalizing KEEP, remove or soften any line that sounds more like a polished read on the user than a believable remembered anchor.
+12. Keep the final bank compact.
+13. Rewrite any polished trait-summary line into a more concrete remembered anchor when possible.
+14. If a line could be written either as an explanation of the user or as a memory anchored in examples, write it as a memory anchored in examples.
+15. Check whether the bank is too easy to read back as a startup monologue. If it is, make it less recitable without losing continuity value.
+16. Preserve the MEMORY HANDOFF RULE header exactly.
 
 ==================================================
 OUTPUT
